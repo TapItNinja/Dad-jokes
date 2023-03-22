@@ -1,0 +1,52 @@
+
+body {
+  width: auto;
+  height: auto;
+  background-color:black;
+  display: flex;
+  justify-content: center;
+
+  font-family: 'Press Start 2P', cursive;
+  background-image: url('https://tenor.com/en-IN/view/fire-burn-flame-gif-15368304');
+  background-size: cover;
+}
+
+p {
+  display: inner-flex;
+  margin: auto 10px;
+  font-size: 23px;
+  font-weight: 100;
+  color: firebrick;
+  border-radius: 10px;
+  border-style: none;
+  padding: 30px 40px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  width:15%;
+  height: auto;
+  
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  position:relative;
+}
+
+.text{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  right: 10px;
+}
+/* button{
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+  */
