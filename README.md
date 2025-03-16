@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/TapItNinja/Dad-jokes/raw/main/component/demo.mp4">
-    <img src="https://via.placeholder.com/650x365/1a1a1a/ff4500?text=Click+to+Watch+Demo" alt="Demo Video - Click to Watch"/>
+    <img src="https://github.com/TapItNinja/Dad-jokes/blob/main/component/demopic.png" alt="Demo Video - Click to Watch"/>
   </a>
   <p><em>⚡ Click the image above to download and watch the demo video ⚡</em></p>
 </div>
