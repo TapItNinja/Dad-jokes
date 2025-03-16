@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../ web dev/my projects/login page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Jokes"
+	}
+}
