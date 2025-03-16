@@ -13,14 +13,10 @@
 ## 🎭 Experience the Darkness
 
 <div align="center">
-  <video width="650" autoplay loop muted>
-    <source src="https://github.com/TapItNinja/Dad-jokes/raw/main/component/demo.mp4" type="video/mp4">
-  </video>
-  
-  <!-- Fallback image if video doesn't load -->
   <a href="https://github.com/TapItNinja/Dad-jokes/raw/main/component/demo.mp4">
-    <img src="https://via.placeholder.com/650x365/1a1a1a/ff4500?text=Watch+Demo+Video" alt="Demo Video"/>
+    <img src="https://via.placeholder.com/650x365/1a1a1a/ff4500?text=Click+to+Watch+Demo" alt="Demo Video - Click to Watch"/>
   </a>
+  <p><em>⚡ Click the image above to download and watch the demo video ⚡</em></p>
 </div>
 
 ## ✨ Features That Kill (Metaphorically)
@@ -137,7 +133,7 @@ dark-humor-extension/
 ## 👤 The Mastermind
 
 <div align="center">
-  <img src="https://via.placeholder.com/150/1a1a1a/ff4500?text=You" alt="Creator" width="150" style="border-radius:50%"/>
+  <img src="https://via.placeholder.com/150/1a1a1a/ff4500?text=TapItNinja" alt="Creator" width="150" style="border-radius:50%"/>
   <h3>TapItNinja</h3>
   <p>
     <a href="https://github.com/TapItNinja">GitHub</a> |
