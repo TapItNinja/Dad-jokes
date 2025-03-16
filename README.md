@@ -1,120 +1,83 @@
-# Dark Humor Jokes Extension 🔥
+# 🔥 Dark Humor Jokes Extension
 
 <div align="center">
-  <img src="./logo.png" alt="Dark Humor Logo" width="200"/>
+  <img src="https://github.com/TapItNinja/Dad-jokes/raw/main/component/logo.png" alt="Dark Humor Logo" width="250"/>
   
-  <h3>A Stylish Chrome Extension for Dark Humor Enthusiasts</h3>
+  <h2>Unleash Your Dark Side with Every New Tab</h2>
   
-  [![Type](https://img.shields.io/badge/Type-Chrome_Extension-4285F4.svg)](https://chrome.google.com/webstore/)
-  [![Platform](https://img.shields.io/badge/Platform-Chrome-4285F4.svg)](https://chrome.google.com/)
-  [![Status](https://img.shields.io/badge/Status-Active-4CAF50.svg)](https://github.com/yourusername/dark-humor-extension)
+  [![Type](https://img.shields.io/badge/Type-Chrome_Extension-4285F4.svg?style=for-the-badge)](https://chrome.google.com/webstore/)
+  [![Platform](https://img.shields.io/badge/Platform-Chrome-4285F4.svg?style=for-the-badge)](https://chrome.google.com/)
+  [![Status](https://img.shields.io/badge/Status-🔥_HOT-FF4500.svg?style=for-the-badge)](https://github.com/TapItNinja/Dad-jokes)
 </div>
 
-## 🎭 Extension Showcase
+## 🎭 Experience the Darkness
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">Extension in Action</td>
-    </tr>
-    <tr>
-      <td><img src="./screenshots/demo.gif" width="300"/></td>
-    </tr>
-  </table>
-</div>
-
-## 📹 Demo Video
-
-Check out how the extension works in this demo video:
-
-[Watch Demo Video](https://youtu.be/demo-link) (Replace with your actual YouTube link once uploaded)
-
-## ✨ Features
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔥 Aesthetic Fire Animation</h3>
-      <ul>
-        <li>Dynamic fire background that creates ambiance</li>
-        <li>Smooth animation that doesn't distract from content</li>
-        <li>Creates the perfect atmosphere for dark humor</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>⌨️ Typing Effect</h3>
-      <ul>
-        <li>Jokes appear with a typewriter effect</li>
-        <li>Enhances the delivery and impact of punchlines</li>
-        <li>Adjustable typing speed for personalization</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🃏 Dark Humor API</h3>
-      <ul>
-        <li>Connects to JokeAPI for a vast collection of jokes</li>
-        <li>Fresh content with every click</li>
-        <li>Specifically pulls from the dark humor category</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎨 Sleek Design</h3>
-      <ul>
-        <li>Modern, glass-morphic UI elements</li>
-        <li>Dark theme with fiery accents</li>
-        <li>Responsive layout that works on any screen</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🚀 Installation Guide
-
-### Method 1: Install from Chrome Web Store
-
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/) (link to be updated when published)
-2. Click "Add to Chrome"
-3. Confirm the installation when prompted
-
-### Method 2: Manual Installation
-
-1. Download or clone this repository
-   ```bash
-   git clone https://github.com/yourusername/dark-humor-extension.git
-   ```
-
-2. Open Chrome and navigate to `chrome://extensions/`
-
-3. Enable "Developer mode" by toggling the switch in the top-right corner
-
-4. Click "Load unpacked" and select the directory containing the extension files
-
-5. The extension should now appear in your extensions list and be ready to use
-
-## 📹 How to Load the Extension (Video Tutorial)
-
-<div align="center">
-  <a href="https://youtu.be/installation-link">
-    <img src="./screenshots/installation-thumbnail.jpg" alt="Installation Tutorial" width="500"/>
+  <video width="650" autoplay loop muted>
+    <source src="https://github.com/TapItNinja/Dad-jokes/raw/main/component/demo.mp4" type="video/mp4">
+  </video>
+  
+  <!-- Fallback image if video doesn't load -->
+  <a href="https://github.com/TapItNinja/Dad-jokes/raw/main/component/demo.mp4">
+    <img src="https://via.placeholder.com/650x365/1a1a1a/ff4500?text=Watch+Demo+Video" alt="Demo Video"/>
   </a>
-  <p>Click the image above to watch the installation tutorial</p>
 </div>
 
-## 🛠️ Tech Stack
+## ✨ Features That Kill (Metaphorically)
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML5</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+      <td width="50%" align="center">
+        <h3>🔥 Hypnotic Fire Animation</h3>
+        <p>Mesmerizing flames dance in the background, setting the perfect mood for dark comedy</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>⌨️ Dramatic Typing Effect</h3>
+        <p>Watch as each joke materializes letter by letter, building suspense before the punchline</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🃏 Endless Dark Humor</h3>
+        <p>Fresh jokes with every click, pulled from a vast collection of the internet's darkest comedy</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎨 Stunning Visual Design</h3>
+        <p>Modern glass-morphic UI with a dark theme that's easy on the eyes but hard on your soul</p>
+      </td>
     </tr>
   </table>
 </div>
 
-## 🧩 Project Structure
+## 🔍 A Closer Look
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Sleek+UI" alt="Sleek UI"/></td>
+      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Fire+Animation" alt="Fire Animation"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Joke+Display" alt="Joke Display"/></td>
+      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Settings+Panel" alt="Settings Panel"/></td>
+    </tr>
+  </table>
+</div>
+
+## 🛠️ Built With Dark Magic (and Code)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/><br/><b>HTML5</b></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/><br/><b>CSS3</b></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/><br/><b>JavaScript</b></td>
+    </tr>
+  </table>
+</div>
+
+## 🧩 What's Inside
 
 ```
 dark-humor-extension/
@@ -127,42 +90,73 @@ dark-humor-extension/
 └── screenshots/       # Screenshots and demo GIFs
 ```
 
-## 🎛️ Customization
+## 🎛️ Make It Your Own
 
-You can easily customize this extension by modifying:
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎬 Custom Background</h3>
+        <p>Swap out the fire for your own mesmerizing video</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🎨 Personal Color Scheme</h3>
+        <p>Tweak the CSS variables to match your aesthetic</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔄 Joke Categories</h3>
+        <p>Modify the API endpoint for different flavors of humor</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>⚡ Animation Speed</h3>
+        <p>Adjust the typing speed to your reading preference</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-1. **Background Video**: Replace `fire-burn.mp4` with any video of your choice
-2. **Colors**: Edit the CSS variables in `style.css` to change the color scheme
-3. **Logo**: Replace `logo.png` with your own logo image
-4. **Joke Category**: Change the API endpoint in `script.js` to get different types of jokes
+## 🔮 Coming Soon
 
-## 🔮 Future Updates
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🌓 Dark/Light Theme Toggle</td>
+      <td align="center">❤️ Favorite Jokes Collection</td>
+      <td align="center">📲 Social Media Sharing</td>
+    </tr>
+    <tr>
+      <td align="center">🔍 Category Filtering</td>
+      <td align="center">🔊 Voice Narration</td>
+      <td align="center">📱 Mobile Support</td>
+    </tr>
+  </table>
+</div>
 
-- [ ] Dark/Light theme toggle
-- [ ] Save favorite jokes
-- [ ] Share jokes directly to social media
-- [ ] Custom joke categories selection
-- [ ] Audio pronunciation of jokes
+## 👤 The Mastermind
 
-## 👤 Created By
-
-- Your Name
-- [GitHub Profile](https://github.com/yourusername)
-- [Portfolio Website](https://yourwebsite.com)
+<div align="center">
+  <img src="https://via.placeholder.com/150/1a1a1a/ff4500?text=You" alt="Creator" width="150" style="border-radius:50%"/>
+  <h3>TapItNinja</h3>
+  <p>
+    <a href="https://github.com/TapItNinja">GitHub</a> |
+    <a href="https://github.com/TapItNinja/Dad-jokes">Repository</a>
+  </p>
+</div>
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
+## 🙏 Tip of the Hat
 
-- [JokeAPI](https://v2.jokeapi.dev/) for providing the joke content
-- [Google Chrome](https://www.google.com/chrome/) for the extension platform
-- All the dark humor enthusiasts who inspired this project
+- [JokeAPI](https://v2.jokeapi.dev/) for the endless supply of questionable humor
+- All the dark humor enthusiasts who find laughter in the shadows
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ and a dark sense of humor</p>
-  <img src="./logo.png" alt="Dark Humor Logo" width="30"/>
+  <p>Made with ❤️ and a twisted sense of humor</p>
+  <img src="https://github.com/TapItNinja/Dad-jokes/raw/main/component/logo.png" alt="Dark Humor Logo" width="40"/>
 </div>
