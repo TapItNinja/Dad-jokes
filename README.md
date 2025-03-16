@@ -19,6 +19,47 @@
   <p><em>⚡ Click the image above to download and watch the demo video ⚡</em></p>
 </div>
 
+## 🎮 How to Use
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Step 1</h3>
+        <p>Click the extension icon in Chrome's toolbar to open the dark humor panel</p>
+        <img src="https://via.placeholder.com/120x80/1a1a1a/ff4500?text=Click+Icon" alt="Click Extension Icon"/>
+      </td>
+      <td align="center">
+        <h3>Step 2</h3>
+        <p>Watch as a random dark joke appears with dramatic typing effect</p>
+        <img src="https://via.placeholder.com/120x80/1a1a1a/ff4500?text=Joke+Appears" alt="Joke Appears"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Step 3</h3>
+        <p>Click the refresh button to load a new joke when you're ready</p>
+        <img src="https://via.placeholder.com/120x80/1a1a1a/ff4500?text=Refresh" alt="Refresh Button"/>
+      </td>
+      <td align="center">
+        <h3>Step 4</h3>
+        <p>Use the settings icon to adjust typing speed and other preferences</p>
+        <img src="https://via.placeholder.com/120x80/1a1a1a/ff4500?text=Settings" alt="Settings Menu"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>✨ Pro Tips ✨</h3>
+  <ul align="left" style="display:inline-block; text-align:left;">
+    <li>Press <kbd>Shift</kbd> + <kbd>R</kbd> while the extension is open to instantly load a new joke</li>
+    <li>Double-click any joke to copy it to your clipboard for sharing</li>
+    <li>Right-click the extension icon and select "Open in new tab" for a full-screen experience</li>
+    <li>Use the <kbd>ESC</kbd> key to close the extension popup at any time</li>
+  </ul>
+</div>
+
 ## ✨ Features That Kill (Metaphorically)
 
 <div align="center">
