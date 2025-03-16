@@ -46,21 +46,6 @@
   </table>
 </div>
 
-## 🔍 A Closer Look
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Sleek+UI" alt="Sleek UI"/></td>
-      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Fire+Animation" alt="Fire Animation"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Joke+Display" alt="Joke Display"/></td>
-      <td><img src="https://via.placeholder.com/400x225/1a1a1a/ff4500?text=Settings+Panel" alt="Settings Panel"/></td>
-    </tr>
-  </table>
-</div>
-
 ## 🛠️ Built With Dark Magic (and Code)
 
 <div align="center">
